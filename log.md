@@ -15,3 +15,11 @@
 **Thoughts:** I could have done more.
 
 **Link to work:** [Simple Programming Problems Section 2](https://github.com/chrootzius/SimpleProgrammingProblems/commit/7e482fc5e67c6849e9829e5c89d20c9d804b659f)
+
+### Day 3: June 21, 2017
+
+**Today's Progress**: Continued section 2.
+
+**Thoughts:** skipped day 2, got nothing done today, shame on  me.
+
+**Link to work:** [Simple Programming Problems Section 2](https://github.com/chrootzius/SimpleProgrammingProblems/commit/434dbf54a566d075cfb6203b2dd97aee5ae5c888)
