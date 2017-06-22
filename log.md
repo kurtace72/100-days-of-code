@@ -23,3 +23,11 @@
 **Thoughts:** skipped day 2, got nothing done today, shame on  me.
 
 **Link to work:** [Simple Programming Problems Section 2](https://github.com/chrootzius/SimpleProgrammingProblems/commit/434dbf54a566d075cfb6203b2dd97aee5ae5c888)
+
+### Day 4: June 22, 2017
+
+**Today's Progress**: Nearly passed section two.
+
+**Thoughts:** The slicing operator is just awesome.j
+
+**Link to work:** [Simple Programming Problems Section 2](https://github.com/chrootzius/SimpleProgrammingProblems/commit/0cc333e930892c4fea1e8e37c495bd9d2a02077b)
